@@ -65,7 +65,3 @@ Yes! Visit www.wordpressplugincourse.com to learn more.
 
 = 1.0.1 =
 This upgrade gets rid of `untested WordPress version` notice on the plugin page for users who've upgraded to WordPress 4.3
-
-== Learn how to build this plugin! ==
-
-This plugin is the result of what you'll learn in [The Ultimate WordPress Plugin Course](http://wordpressplugincourse.com/ "The Ultimate WordPress Plugin Course"): An online video course to teach you how to become a WordPress plugin developer today. Head over to [www.wordpressplugincourse.com](http://wordpressplugincourse.com/ "The Ultimate WordPress Plugin Course") to learn more!
